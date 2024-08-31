@@ -1,8 +1,9 @@
-# Simple examples of UAM impact assessment.
+# Simple examples towards developing Sustainable Urban Air Mobility Indicators (SUAMI).
 
-Capacity assessment in another repo. Perhaps should be done before impact assessment. 
+Personal hobby repository, inspired by the SIFAR-Med, the [Imafusa](https://www.imafusa-sesar.eu), and the [RefMAp](https://www.refmap.eu/) projects.
+Capacity assessment in another repo. Perhaps, capacity could be done before or in parallel with impact assessment. 
 
-Focusing on Impact for demo purposes.
+Focusing on Impact Assessment helps identify areas where capacity assessment if a necessary precondition to maximise UAV potential.
 
 ## Impact type from different perspectives
 
@@ -54,13 +55,9 @@ J) Disruptive Add-Ons: (my usually crazy ideas)
 
 
 ## Literature Review Notes
-[Lierature Review Paper](https://www.sciencedirect.com/science/article/pii/S0160791X23001823)
+[Literature Review Paper](https://www.sciencedirect.com/science/article/pii/S0160791X23001823) output of the [SADUS](https://ethics.dsi.uzh.ch/project/sadus/) project.
 
 
 ## First Examples
-Use scenaria from SIFAR-Med to compare the various metrics of the existing traditional means
-
-
-
-
-
+Use scenaria from Safir-Med to compare the various metrics of the existing traditional means
+Take into account [Safir-Med indicators framework](https://www.safir-med.eu/_files/ugd/4802dd_b6212dad758542f8bac152349ea9bd6e.pdf)
